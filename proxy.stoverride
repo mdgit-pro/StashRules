@@ -7,6 +7,8 @@ rules:
 
   - DOMAIN-SUFFIX,fihtdc.com,DIRECT
   - DOMAIN-SUFFIX,speedtest.cn,DIRECT
+
   - DOMAIN-SUFFIX,apple.com,DIRECT
   - DOMAIN-SUFFIX,s.mzstatic.com,DIRECT
+  - DOMAIN-SUFFIX,app-analytics-services.com,DIRECT
 
